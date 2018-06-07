@@ -2,10 +2,7 @@
 
 Numerous scripts for interacting and working with GoCD
 
-**Python:**
-All conforming to PEP8 standards
-
-`encrypt_variables.py:`
+**encrypt_variables.py:**
 
 Given a file or string, encrypt a variable with a certain GoCD instance. Returns an encrypted base64 string to input into pipelines-as-code. 
 
