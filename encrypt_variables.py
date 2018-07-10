@@ -1,4 +1,3 @@
-# Author: Tristan Watson
 # Conforming to PEP8 - keep it that way
 
 # Create and store an encrypted variable within GOCD

@@ -34,5 +34,8 @@ $ virtualenv venv
 Conform to PEP8 standards, and lint against that.
 
 ## TODO: 
-Get this in a pipeline to stop pesky non-conforming commits occuring 
+* Get this in a pipeline to stop pesky non-conforming commits occuring (CI)
+* Allow config file (CI)
+* Add support for directories, and writing of 'enrypted' files into a specific directory (Improvements)
+* Add new 'prompt' parameter to allow password input (Improvements)
 
